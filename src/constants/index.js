@@ -1,41 +1,45 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, starbucks, tesla, hids } from "../assets/images";
 import {
     car,
     contact,
     css,
     estate,
-    express,
     git,
     github,
     html,
     javascript,
     linkedin,
     mongodb,
-    motion,
     mui,
     nextjs,
-    nodejs,
     pricewise,
     react,
     redux,
-    sass,
     snapgram,
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    unity,
+    unrealengine,
+    figma
 } from "../assets/icons";
 
 export const skills = [
     {
-        imageUrl: css,
+        imageUrl: unity,
         name: "CSS",
         type: "Frontend",
     },
     {
-        imageUrl: express,
-        name: "Express",
-        type: "Backend",
+        imageUrl: unrealengine,
+        name: "CSS",
+        type: "Frontend",
+    },
+    {
+        imageUrl: figma,
+        name: "CSS",
+        type: "Frontend",
     },
     {
         imageUrl: git,
@@ -53,48 +57,18 @@ export const skills = [
         type: "Frontend",
     },
     {
+        imageUrl: css,
+        name: "CSS",
+        type: "Frontend",
+    },
+    {
         imageUrl: javascript,
         name: "JavaScript",
         type: "Frontend",
     },
     {
-        imageUrl: mongodb,
-        name: "MongoDB",
-        type: "Database",
-    },
-    {
-        imageUrl: motion,
-        name: "Motion",
-        type: "Animation",
-    },
-    {
         imageUrl: mui,
         name: "Material-UI",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nextjs,
-        name: "Next.js",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nodejs,
-        name: "Node.js",
-        type: "Backend",
-    },
-    {
-        imageUrl: react,
-        name: "React",
-        type: "Frontend",
-    },
-    {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
-    },
-    {
-        imageUrl: sass,
-        name: "Sass",
         type: "Frontend",
     },
     {
@@ -106,7 +80,27 @@ export const skills = [
         imageUrl: typescript,
         name: "TypeScript",
         type: "Frontend",
-    }
+    },
+    {
+        imageUrl: mongodb,
+        name: "MongoDB",
+        type: "Database",
+    },
+    {
+        imageUrl: nextjs,
+        name: "Next.js",
+        type: "Frontend",
+    },
+    {
+        imageUrl: react,
+        name: "React",
+        type: "Frontend",
+    },
+    {
+        imageUrl: redux,
+        name: "Redux",
+        type: "State Management",
+    },
 ];
 
 export const experiences = [
@@ -126,7 +120,7 @@ export const experiences = [
     {
         title: "AR / VR Developer",
         company_name: "HiDs Technology",
-        icon: tesla,
+        icon: hids,
         iconBg: "#fbc3bc",
         date: "Jul 2023 - May 2023",
         points: [
@@ -150,7 +144,7 @@ export const experiences = [
     {
         title: "Project Lead (AR / VR Developer)",
         company_name: "HiDs Technology",
-        icon: shopify,
+        icon: hids,
         iconBg: "#b7e4c7",
         date: "Jul 2022 - Dec 2022",
         points: [
@@ -288,7 +282,7 @@ export const projects = [
         description: '',
         videoId: "",
         link: '',
-        linkLabel: "Live Link",
+        linkLabel: "Soon coming",
         category: 'Web AR'
     },
     {
@@ -301,4 +295,14 @@ export const projects = [
         linkLabel: "Live Link",
         category: 'Web AR'
     },
+    {
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'Knee Preop Planning',
+        description: 'Focusing on Knee Preop planning for medical - an assignment given by a company.',
+        videoId: "1K6OgFGPW9Y",
+        link: 'https://souradeepash.github.io/Knee-Prop-Build/',
+        linkLabel: "Live Link",
+        category: 'Web AR'
+    }
 ];

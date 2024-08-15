@@ -26,6 +26,9 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import unity from './unity.png'
+import unrealengine from './unrealengine.png'
+import figma from './figma.png'
 
 export {
     css,
@@ -55,5 +58,8 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    unity,
+    unrealengine,
+    figma
 }
