@@ -226,6 +226,16 @@ export const projects = [
         category: 'VR'
     },
     {
+        iconUrl: snapgram,
+        theme: 'btn-back-pink',
+        name: 'Aero Verse',
+        description: 'A POC of drill screw',
+        videoId: "yigsGZ2p3-c",
+        link: '',
+        linkLabel: "NA",
+        category: 'VR'
+    },
+    {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'AC-DC Motor',
