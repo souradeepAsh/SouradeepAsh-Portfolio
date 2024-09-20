@@ -210,7 +210,7 @@ export const projects = [
         description: 'A Project Focus on “Semiconductor Industry”, where I try to showcase some machine work in VR that they can use for Training purpose, Implemented Realtime Physical Machine in Unity VR, Use different Language like Hindi and English for content creation.',
         videoId: "hQi__-ABlcA",
         link: '',
-        linkLabel: "Download Link",
+        linkLabel: "N/A",
         category: 'VR'
     },
     {
@@ -220,7 +220,7 @@ export const projects = [
         description: 'A simple Architectural view build for Godrej to showcase the property into 3D with Virtual Reality functionality using Unity3D and Used Cinemachine camera video capture, had used some Urban Plugin to generate the Human and car traffic.',
         videoId: "FxL5LjU7xRQ",
         link: 'N/A',
-        linkLabel: "Download Link",
+        linkLabel: "N/A",
         category: 'VR'
     },
     {
@@ -230,7 +230,7 @@ export const projects = [
         description: 'Working on Arduino with Unity creating one car driving gear, Creating one Car controller for one of my Project, Using Blender to create model.',
         videoId: "eUfiwW29kBk",
         link: '',
-        linkLabel: "Download Link",
+        linkLabel: "N/A",
         category: 'VR'
     },
     {
@@ -250,7 +250,7 @@ export const projects = [
         description: 'A learning platform that help students to collaborate with each other in a school environment, i had used Photon Pun for Room creation and used voice and chat for communication.',
         videoId: "",
         link: '',
-        linkLabel: "Download Link",
+        linkLabel: "N/A",
         category: 'VR'
     },
     {
@@ -260,7 +260,7 @@ export const projects = [
         description: 'An industry project that i had built when i work in my previous company a small part due to restriction i cant show full, i had worked on Inner Engine part functionality',
         videoId: "YgqCffO6B2Q",
         link: '',
-        linkLabel: "NA",
+        linkLabel: "N/A",
         category: 'VR'
     },
     {
@@ -270,7 +270,7 @@ export const projects = [
         description: 'A POC of drill screw',
         videoId: "yigsGZ2p3-c",
         link: '',
-        linkLabel: "NA",
+        linkLabel: "N/A",
         category: 'VR'
     },
     {
@@ -280,7 +280,7 @@ export const projects = [
         description: 'An interactive example of AC DC motor works, useful for K12 students, Used Vuforia-Air detection for this Particular work',
         videoId: "7JDiPzYlRts",
         link: 'https://drive.google.com/file/d/1Wv7kyUwJQ8wdftLZaHxHjxEIqu58AnEN/view?usp=drive_link',
-        linkLabel: "NA",
+        linkLabel: "Download Link",
         category: 'AR'
     },
     {
@@ -290,7 +290,7 @@ export const projects = [
         description: 'A small Client project that i had done when i am working at Pune. Multiple experiment is done with this Physical machine. Later on we used IOT-AR to maintain and training purpose.',
         videoId: "p8gj0sxK5WU",
         link: '',
-        linkLabel: "NA",
+        linkLabel: "N/A",
         category: 'AR'
     },
     {
@@ -300,7 +300,7 @@ export const projects = [
         description: '',
         videoId: "",
         link: '',
-        linkLabel: "Download Link",
+        linkLabel: "N/A",
         category: 'AR'
     },
     {
@@ -310,7 +310,7 @@ export const projects = [
         description: 'A book for small Kids. Learning about basic alphabeted can be more easy with AR Application.',
         videoId: "JW7E5y-KSvk",
         link: '',
-        linkLabel: "Download Link",
+        linkLabel: "N/A",
         category: 'AR'
     },
     {
@@ -320,7 +320,7 @@ export const projects = [
         description: '',
         videoId: "nweAPpPIic4",
         link: 'https://www.linkedin.com/posts/souradeep-ash_ar-iot-aws-activity-7172542984008269824-H8BY?utm_source=share&utm_medium=member_desktop',
-        linkLabel: "NA",
+        linkLabel: "N/A",
         category: 'AR'
     },
     {
