@@ -186,6 +186,16 @@ export const projects = [
         category: 'VR'
     },
     {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'Godrej Property Architectural View',
+        description: 'A simple Architectural view build for Godrej to showcase the property into 3D with Virtual Reality functionality using Unity3D and Used Cinemachine camera video capture, had used some Urban Plugin to generate the Human and car traffic.',
+        videoId: "FxL5LjU7xRQ",
+        link: 'N/A',
+        linkLabel: "Download Link",
+        category: 'VR'
+    },
+    {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Virtual Reality Car Controller',
