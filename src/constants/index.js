@@ -22,7 +22,9 @@ import {
     typescript,
     unity,
     unrealengine,
-    figma
+    figma,
+    dhitva,
+    thetannmanngaadi,
 } from "../assets/icons";
 
 export const skills = [
@@ -107,7 +109,7 @@ export const experiences = [
     {
         title: "Free lancing",
         company_name: "Fiver / Freelancer",
-        icon: starbucks,
+        icon: freelancer,
         iconBg: "#accbe1",
         date: "Apr 2022 - Dec 2022",
         points: [
@@ -119,7 +121,7 @@ export const experiences = [
     },
     {
         title: "AR / VR Developer",
-        company_name: "HiDs Technology",
+        company_name: "HiDs Technology - Full Time",
         icon: hids,
         iconBg: "#fbc3bc",
         date: "Jul 2023 - May 2023",
@@ -143,7 +145,7 @@ export const experiences = [
     },
     {
         title: "Project Lead (AR / VR Developer)",
-        company_name: "HiDs Technology",
+        company_name: "HiDs Technology - Full Time",
         icon: hids,
         iconBg: "#b7e4c7",
         date: "Jul 2022 - Dec 2022",
@@ -152,6 +154,32 @@ export const experiences = [
             "Developed one Virtual reality Product called “ShipVerse” -VR Project focusing on Shipping Industry. Developing the Project with one mentor and 3D modeler and managing it, this project focus on Shipping Industry.",
             "Worked on an AR application for one of our partner products “Devkit” – “AR with IOT & Digital twin” - AR application focusing on EdTech.",
             "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Unity Developer (AR / VR Developer)",
+        company_name: "Dhitva - New Dawn in Education - Internship",
+        icon: dhitva,
+        iconBg: "#b7e4c7",
+        date: "Sep 2024 - Present",
+        points: [
+            "",
+            "",
+            "",
+            "",
+        ],
+    },
+    {
+        title: "3D developer (AR / VR Developer)",
+        company_name: "The Tann Mann Gaadi - Part Time",
+        icon: thetannmanngaadi,
+        iconBg: "#b7e4c7",
+        date: "Sep 2024 - Present",
+        points: [
+            "",
+            "",
+            "",
+            "",
         ],
     },
 ];
